@@ -1,0 +1,21 @@
+/*
+Theme Name: mi primer tema
+Theme URI: https://wordpress.org/themes/miPrimerTema/
+Author: the Joselito team
+Author URI: https://wordpress.org/
+Description: Esta es la descripcion de mi primer tema. No se que poner para rellenar.
+Version: 3.1
+Requires at least: 3.6
+Requires PHP: 5.2.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: twentythirteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body{
+    background: #02e49b;
+}
